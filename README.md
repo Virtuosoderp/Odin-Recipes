@@ -1,2 +1,3 @@
 # Odin-Recipes
-Project for the odin project front-end course
+
+Project for the odin project web-development course
